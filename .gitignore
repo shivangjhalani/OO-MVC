@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+.idea/
+*.iml
+.vscode/
+*.DS_Store
+
+.devenv/
+.direnv/
+devenv.lock
+
+data/
