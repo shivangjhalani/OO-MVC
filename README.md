@@ -15,8 +15,8 @@
    mvn spring-boot:run
    ```
 
-4. **Access the application:**
-   - Open your browser and go to [http://localhost:8080](http://localhost:8080)
+4. **Access:**
+   - [http://localhost:8080](http://localhost:8080)
 
 ## 1. Project Structure : MVC Separation
 
